@@ -1,5 +1,5 @@
   <img src="./1500x500 (1).jpg" alt="" style="
-  margin-left: 50px;
+  margin-left: 100px;
 ">
 
 
