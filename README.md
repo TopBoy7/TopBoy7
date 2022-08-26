@@ -1,3 +1,6 @@
+![Why-a-QA-should-learn-programming](https://user-images.githubusercontent.com/108914484/186957851-5c744cd3-645a-46c4-bad4-7d3d856e9ee4.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Joseph Okefe</h1>
 <h3 align="center">A Frontend Web Developer.</h3>
 
@@ -7,8 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://topboy.netlify.app/](https://topboy.netlify.app/)  ![Why-a-QA-should-learn-programming](https://user-images.githubusercontent.com/108914484/186957421-ef1e7945-5378-48a9-bc2d-56281cdf5a78.jpg)
-
+- 👨‍💻 All of my projects are available at [https://topboy.netlify.app/](https://topboy.netlify.app/)  
 
 - 💬 Ask me about **CSS and it's frameworks**
 
