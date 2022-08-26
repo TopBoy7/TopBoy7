@@ -1,4 +1,4 @@
-   <img src="./1500x500 (1).jpg" alt="" style="margin-left: 100px;">
+   ![pic](https://user-images.githubusercontent.com/108914484/186987128-7e99fe57-fb04-430b-ad51-1ac45150c02d.jpg)
 
 
 
