@@ -1,7 +1,6 @@
- <img src="![1500x500](https://user-images.githubusercontent.com/108914484/186979558-3da0009a-a2a4-4f2f-a96d-8c63602b4a11.jpg)" alt="" style="
-  margin-left: 100px;
+  <img src="./1500x500 (1).jpg" alt="" style="
+  margin-left: 50px;
 ">
-
 
 
 
