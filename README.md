@@ -1,4 +1,4 @@
-![1500x500](https://user-images.githubusercontent.com/108914484/186978610-ba1531b9-1d6f-4d82-a032-f51f098fd59b.jpg)
+![186978610-ba1531b9-1d6f-4d82-a032-f51f098fd59b](https://user-images.githubusercontent.com/108914484/186979384-fd6c40b7-01da-4c0b-b067-c1757cfba524.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Joseph Okefe</h1>
