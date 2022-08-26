@@ -1,4 +1,5 @@
-  <img src="./1500x500 (1).jpg" alt="";
+   <img src="./1500x500 (1).jpg" alt="" style="
+  margin-left: 100px;
 ">
 
 
