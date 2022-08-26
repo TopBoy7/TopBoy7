@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://topboy.netlify.app/](https://topboy.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://topboy.netlify.app/](https://topboy.netlify.app/)  ![Why-a-QA-should-learn-programming](https://user-images.githubusercontent.com/108914484/186957421-ef1e7945-5378-48a9-bc2d-56281cdf5a78.jpg)
+
 
 - 💬 Ask me about **CSS and it's frameworks**
 
