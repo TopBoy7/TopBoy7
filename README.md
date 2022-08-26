@@ -1,4 +1,4 @@
-![Why-a-QA-should-learn-programming](https://user-images.githubusercontent.com/108914484/186958539-d799a05f-0afb-499c-a2de-dc989a8c1cdb.jpg)
+![1500x500](https://user-images.githubusercontent.com/108914484/186978610-ba1531b9-1d6f-4d82-a032-f51f098fd59b.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Joseph Okefe</h1>
