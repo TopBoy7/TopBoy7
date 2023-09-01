@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topboy7&label=Profile%20views&color=0e75b6&style=flat" alt="topboy7" /> </p>
 
-- 🔭 I’m currently working on **React.**
+- 🔭 I’m currently working on **React skills**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://topboy.netlify.app/](https://topboy.netlify.app/)
 
