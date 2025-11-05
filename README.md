@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://topboy.netlify.app/](https://topboy.netlify.app/)
-
 - 💬 Ask me about **CSS and it's frameworks**
 
 - 📫 How to reach me **okefejoseph9@gmail.com**
